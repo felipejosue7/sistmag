@@ -20,7 +20,4 @@ if(isset($_SESSION["usulog"])){
 }else{
     require_once("controlador/indexControlador.php");
 }
-
-
-
 ?>

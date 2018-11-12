@@ -16,10 +16,6 @@
     <link rel="stylesheet" type="text/css" href="assets/datatables/datatables.min.css">
     <link rel="stylesheet" href="assets/datatables/jquery.dataTables.min.js">
     <link rel="stylesheet" href="assets/datatables/dataTables.bootstrap4.min.js">
-
-    
-    
-
 </head>
 
 

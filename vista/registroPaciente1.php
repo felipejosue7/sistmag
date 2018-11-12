@@ -18,6 +18,8 @@
     <!-- End Navbar -->
 
 
+
+
     <!--Inicio Modal Registro PAciente  -->
     <div class="modal fade bd-registropac-modal-lg" id="registropac" tabindex="-1" role="dialog" aria-labelledby="labelModal" aria-hidden="true">
       <div class="modal-dialog modal-lg" role="document">
